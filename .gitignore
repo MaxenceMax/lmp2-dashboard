@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Archive d'origine d'un tiers et anciennes sauvegardes, gardées en local
+LMP2 LMU.zip
+LMP2-max.zip
+LMP2-max.simhubdash
+dash-max-lmp2-version-precedente.simhubdash
